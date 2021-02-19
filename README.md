@@ -17,7 +17,7 @@ Resolución de problemas, Curiosidad, Autogestión, Trabajo en Equipo, Comunicac
 
 Programador Back-End PHP/MySQL/AngularJS/JavaScript/ 
 
-![Image](https://pbs.twimg.com/profile_images/1296382148103081984/DkSmXpSP_200x200.jpg)
+![Image](https://avatars.githubusercontent.com/u/13303943?s=460&u=490375bca0f75745b8f6e46f10c51214e270d093&v=4)
 
 
 ### Commits
