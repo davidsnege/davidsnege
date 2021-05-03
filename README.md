@@ -1,7 +1,5 @@
 # DAVID R. BELLETI SNEGE
 
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
-
 ## APTITUDES
 
 Mis habilidades están dirigidas al desarrollo web con énfasis en PHP y MySQL, un poco de UI / UX y SEO para proyectos en equipos de personas comprometidas. 
