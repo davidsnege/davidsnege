@@ -1,4 +1,15 @@
+# ATENCIÓN ----------------------------------------------------
+
+-- He borrado todos mis repos de github por razones de privacidad, ahora llevo todos mis archivos en mis discos duros y ssd.
+-- No pienso volver a publicar repos en github o otro medio online.
+-- Gracias por su atención.
+
+
+
+
 # DAVID R. BELLETI SNEGE
+
+
 
 ## APTITUDES
 
@@ -16,8 +27,3 @@ Resolución de problemas, Curiosidad, Autogestión, Trabajo en Equipo, Comunicac
 
 Programador Back-End PHP/NodeJS/MySQL/MongoDB/JavaScript/ 
 
-# ATENCIÓN ----------------------------------------------------
-
--- He borrado todos mis repos de github por razones de privacidad, ahora llevo todos mis archivos en mis discos duros y ssd.
--- No pienso volver a publicar repos en github o otro medio online.
--- Gracias por su atención.
