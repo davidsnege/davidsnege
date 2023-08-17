@@ -21,7 +21,7 @@ Soy un Brasileño nascido en los '80s, que ha tenido la suerte de ver muchos cam
 - Manualidades
 
 ### Cosas no soportadas
-- Creyentes
+- Creyentes, Tierraplanistas, Espiritualistas y otros "istas" o "entes"
 - Socialistas
 - Comunistas
 - Defensores de E.U.A y sus politicas (podemos invadir todo que queremos porque llevamos "nuestra" democracia) o (Vamos a matar los Sirios para enseñar a los sirios a no matar los sirios)
