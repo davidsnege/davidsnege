@@ -20,6 +20,7 @@ Soy un Brasileño nascido en los '80s, que ha tenido la suerte de ver muchos cam
 - Arduino Raspiberry y otras fun placas
 - Radio HF, Radio amador, SDR, Comunicaciones en modo libre
 - Manualidades
+- Fotografia / Astrofotografia
 
 ### Cosas no soportadas
 - Creyentes, Tierraplanistas, Espiritualistas y otros "istas" o "entes"
