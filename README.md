@@ -16,7 +16,8 @@ Soy un Brasileño nascido en los '80s, que ha tenido la suerte de ver muchos cam
 
 ### Mis intereses
 - Astronomia
-- Programación
+- Programación (PHP, C, JS etc...)
+- Linux
 - Mecanica y CNC
 - Eletronica (base)
 - Arduino Raspiberry y otras fun placas
