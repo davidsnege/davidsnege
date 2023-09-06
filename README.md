@@ -1,8 +1,6 @@
 ## DAVID R. BELLETI SNEGE
 <div align="center" style="display: inline_block">
   <img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidsnege&theme=dracula">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsnege&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=davidsnege&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 </p>    
 Holá, bienvenido a mi github [(PERSONAL)]!
